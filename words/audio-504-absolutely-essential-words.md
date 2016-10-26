@@ -83,4 +83,15 @@ wary | неуверенный
 weary | уставший
 unaccustomed | непривычный
 wail | рыдать
+valid | валидный
+vast | огромный
+detest | ненавидеть
+glimps | мельком
+glance | взглянуть
+gleam | проблеск
+exaggerate | преувеличивать
+accurate | точный
+adequate | походящий, адекватный
+gloomy | мрачный
+
 

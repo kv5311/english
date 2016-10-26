@@ -93,5 +93,19 @@ exaggerate | преувеличивать
 accurate | точный
 adequate | походящий, адекватный
 gloomy | мрачный
-
-
+famine | голод
+masculine | мужской
+feminine | женский
+nourish | кормить
+reptile | рептилия
+keg | бочонок
+mature | зрелый
+amature | любитель
+employee | работник
+miniature | миниатюра
+exhibit | выставлять
+forbid | запрещать
+ban | запрещать
+prohibit | запрещать
+eliminate | избавляться
+abolish | отменять

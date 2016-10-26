@@ -79,3 +79,8 @@ menace | угроза
 reckless | неосторожный
 cautious | осторожный
 precausion | предосторожность
+wary | неуверенный
+weary | уставший
+unaccustomed | непривычный
+wail | рыдать
+

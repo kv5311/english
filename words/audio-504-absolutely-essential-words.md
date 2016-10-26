@@ -109,3 +109,10 @@ ban | запрещать
 prohibit | запрещать
 eliminate | избавляться
 abolish | отменять
+pursue | преследовать
+persuade | уговорить
+laud | хвалить
+jagged | зазубренный
+penetrate | проникать
+pierce | прокалывать
+fierce | зверский

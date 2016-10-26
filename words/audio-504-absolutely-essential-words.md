@@ -58,6 +58,19 @@ resist | сопротивляться
 survive | выживать
 excel | превосходить
 surpass | превосходить
-
+morcel | кусочек
+trifle | пустяк
+baffle | сбивать с толку
+devour | пожирать
+ignite | поджигать
+typical | типичный
+conceal | прятать
+reveal | открывать
+vicinity | соседство
+abroad | заграница
+plea | мольба
+brawl | драка
+strategic | стратегический
+vermin | паразиты
 
 

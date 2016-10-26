@@ -21,3 +21,24 @@ deceive | обманывать
 oath | клятва
 pledge | обещание
 dismal | мрачный
+valiant | доблестный
+gallant | доблестный, галантный
+vacant | свободный
+rural | сельский
+suburb | пригород
+jealous | ревнивый
+homicide | убийство
+rave | бред, нести
+rage | гнев
+defiant | вызывающий
+sneer | насмехиться
+ambush | засада
+scowl | хмуриться
+squander | расточать
+vigor | энергичный
+vicious | злобный
+wretched | несчастный
+proceed | продолжить
+commence | начало
+
+

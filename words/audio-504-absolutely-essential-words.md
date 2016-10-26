@@ -1,7 +1,8 @@
 ---
 lesson items
 ----
-<p>
+<table>
 
 eng | rus
 essential | необходимый
+</table>

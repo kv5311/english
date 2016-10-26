@@ -72,5 +72,10 @@ plea | мольба
 brawl | драка
 strategic | стратегический
 vermin | паразиты
-
-
+theory | теория
+thrust | бросок
+threat | грозить
+menace | угроза
+reckless | неосторожный
+cautious | осторожный
+precausion | предосторожность

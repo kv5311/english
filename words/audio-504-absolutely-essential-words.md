@@ -40,5 +40,24 @@ vicious | злобный
 wretched | несчастный
 proceed | продолжить
 commence | начало
+nimble | ловкий
+captive | захваченный
+warden | надзиратель
+delinquent | нарушитель, преступник
+scarce | редкий
+rarely | редко
+opt | выбирать
+lessen | уменьшать
+descend | спускаться
+decrease | уменьшать
+relieve | облегчать
+revive | возрождать
+revise | проверять
+persist | настаивать
+resist | сопротивляться
+survive | выживать
+excel | превосходить
+surpass | превосходить
+
 
 
